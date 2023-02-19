@@ -1,1 +1,19 @@
+investigate European Soccer Database. The database consists of seven tables namely 
+'Country', 'League', 'Player', 'Player Attributes', 'Team', 'Team Attributes', and 'Match'. 
+this dataset contains 11 different European Leagues between 2008 and 2016.
+The original source of the database found on (https://www.kaggle.com/datasets/hugomathien/soccer)
 
+questions
+1. What is the top five ranked home teams?
+
+2.How many league played in germany and what is the league name ?
+
+3.what are the goals for home & away teams in each league?
+
+4. what is the lowest five winner teams in goals?
+
+5.what is the score Gaols for home team per season?
+
+6.what is the score of Gaols for away team per season?
+
+7. what is the average of Hieght and wieght of players?
